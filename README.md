@@ -19,6 +19,12 @@ npm i -g pino-pretty
 Then, you can start the development server with the command `make dev`.
 
 ## Useful commands
+
+- Start develpment server:
+```bash
+make dev
+```
+
 - Run integration tests: 
 ```bash
 make test-integration
