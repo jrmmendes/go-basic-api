@@ -4,6 +4,8 @@ This is a basic API made with go.
 
 ## Setup
 
+> This project requires `go` 1.23+, `node` and `make`. 
+
 To run the development server, install `air` and `pino-pretty` for code reload and better log visualization:
 
 ```bash
