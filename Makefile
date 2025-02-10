@@ -1,5 +1,5 @@
 .PHONY: dev clear build start prepare
-
+	
 dev:
 	@air -- | pino-pretty -c -t
 
