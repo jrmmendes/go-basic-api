@@ -4,7 +4,7 @@ This is a basic API made with go.
 
 ## Setup
 
-To run the development server, install `air` and `pino-pretty` for code reload and better log visualiation:
+To run the development server, install `air` and `pino-pretty` for code reload and better log visualization:
 
 ```bash
 go install github.com/air-verse/air@latest; npm i -g pino-pretty
